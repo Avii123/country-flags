@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2875" height="2261">
+<path style="fill:#ffffff; stroke:none;" d="M0 0L0 2261L2875 2261L2875 0L0 0z"/>
+<path style="fill:#f49241; stroke:none;" d="M120 23L123 29L141.104 12.3611L151 13L151 12L147 9L154 9L154 6L147 6L147 5L152 1C138.05 5.32959 131.042 14.3618 120 23z"/>
+<path style="fill:#157976; stroke:none;" d="M75 3L75 4L86 9C83.6161 4.21753 80.1342 3.12378 75 3M72 4L72 6L74 4L72 4z"/>
+<path style="fill:#91c247; stroke:none;" d="M71 5L72 6L71 5M83 5L84 6L83 5z"/>
+<path style="fill:#157976; stroke:none;" d="M70 6L71 7L70 6M69 7L70 8L69 7z"/>
+<path style="fill:#ffffff; stroke:none;" d="M147 7L147 8L151 8L147 7z"/>
+<path style="fill:#45bbcf; stroke:none;" d="M68 8L69 9L68 8z"/>
+<path style="fill:#157976; stroke:none;" d="M68 9L67 13L68 13L68 9M86 10L86 20L87 20L86 10z"/>
+<path style="fill:#91c247; stroke:none;" d="M87 13L88 14L87 13M66 15L67 16L66 15M87 15L88 16L87 15z"/>
+<path style="fill:#157976; stroke:none;" d="M66.3333 16.6667L66.6667 17.3333L66.3333 16.6667M67 21L72 27L72 26L67 21M85 21L83 25L85 21z"/>
+<path style="fill:#45bbcf; stroke:none;" d="M67 23L68 24L67 23z"/>
+<path style="fill:#157976; stroke:none;" d="M93 24L90 31L91 31C94.2345 26.9324 96.9906 26.488 102 27L102 34C106.1 26.7534 98.966 24.4761 93 24z"/>
+<path style="fill:#45bbcf; stroke:none;" d="M119 24C100.229 38.8877 81 45.3469 81 73L88 71L84 85C91.7357 85 105.348 87.5828 111.682 82.1812C118.726 76.1746 114.378 55.5022 112 48C118.597 43.3384 126.586 30.0745 119 24z"/>
+<path style="fill:#91c247; stroke:none;" d="M70 25L71 26L70 25z"/>
+<path style="fill:#157976; stroke:none;" d="M82 25L81 27L82 25z"/>
+<path style="fill:#45bbcf; stroke:none;" d="M82 26L83 27L82 26z"/>
+<path style="fill:#91c247; stroke:none;" d="M92 26L93 27L92 26z"/>
+<path style="fill:#f49241; stroke:none;" d="M90 43L103 36L102 27C89.5273 24.7971 88.5867 33.387 90 43z"/>
+<path style="fill:#91c247; stroke:none;" d="M69 27L70 28L69 27z"/>
+<path style="fill:#157976; stroke:none;" d="M72 27L72 28L81 28L81 27L72 27z"/>
+<path style="fill:#91c247; stroke:none;" d="M77 27L78 28L77 27z"/>
+<path style="fill:#157976; stroke:none;" d="M69 28L70 38L71 38L72 35L69 28z"/>
+<path style="fill:#45bbcf; stroke:none;" d="M72 28L73 29L72 28z"/>
+<path style="fill:#157976; stroke:none;" d="M75 30L74 32L76 32L75 30z"/>
+<path style="fill:#91c247; stroke:none;" d="M103 31L104 32L103 31z"/>
+<path style="fill:#157976; stroke:none;" d="M73 33L74 34L73 33M72 34L73 35L72 34M88.3333 36.6667L88.6667 37.3333L88.3333 36.6667z"/>
+<path style="fill:#91c247; stroke:none;" d="M69 37C67.4785 40.5278 65.4291 44.3965 69 47L69 37z"/>
+<path style="fill:#157976; stroke:none;" d="M89 39L90 40L89 39z"/>
+<path style="fill:#f49241; stroke:none;" d="M66 43L64 50L66 48L67 48C67.2506 56.6318 72.959 69.0715 81 73L71 46L66 46L66 43z"/>
+<path style="fill:#91c247; stroke:none;" d="M66 48L66 52L67 52L66 48z"/>
+<path style="fill:#f49241; stroke:none;" d="M113 81C104.954 86.095 96.1654 85 87 85L87 86C92.4813 88.0015 116.582 93.2546 113 81z"/>
+<path style="fill:#157976; stroke:none;" d="M83 85C80.011 95.1804 72.6743 103.795 69.4097 114C68.5448 116.704 67.4136 123.15 71.2994 124.249C74.3214 125.103 76.8796 121.622 78.652 119.755C83.7625 114.374 88.9689 108.332 95 104C92.7537 109.998 92.1122 117.609 93.1481 123.981C93.8028 128.007 97.8818 130.245 101.246 127.257C109.954 119.522 111.633 97.8188 113 87C101.483 89.8369 94.0897 86.1348 83 85z"/>
+<path style="fill:#45bbcf; stroke:none;" d="M81 89L82 90L81 89M78 95L79 96L78 95z"/>
+<path style="fill:#91c247; stroke:none;" d="M94 104L95 105L94 104M109 104L110 105L109 104z"/>
+<path style="fill:#45bbcf; stroke:none;" d="M73 105L74 106L73 105z"/>
+<path style="fill:#f49241; stroke:none;" d="M53 151L54 151L74 125C69.7323 123.708 68.9138 121.298 69 117C56.7967 122.707 54.5196 139.039 53 151z"/>
+<path style="fill:#45bbcf; stroke:none;" d="M77 120L78 121L77 120z"/>
+<path style="fill:#f49241; stroke:none;" d="M92 126C86.252 136.606 91.1385 147.182 93 158L94 158L102 128L92 126z"/>
+</svg>
